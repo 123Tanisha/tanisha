@@ -1,1 +1,1 @@
-<h2>Projets from freecodecamp's Responsive Web design</h2>
+<h2>Projets from freecodecamp Responsive Web design</h2>
